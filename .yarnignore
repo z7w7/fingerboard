@@ -3,5 +3,5 @@ src
 .eslintrc.js
 .gitignore
 rollup.config.js
-tsconfig.js
+tsconfig.json
 yarn.lock
